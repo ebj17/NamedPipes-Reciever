@@ -1,0 +1,14 @@
+/Users/einar/Desktop/Advanced Programming/NamedPipes InClass/PiperReciever/obj/Debug/net8.0/PiperReciever.GeneratedMSBuildEditorConfig.editorconfig
+/Users/einar/Desktop/Advanced Programming/NamedPipes InClass/PiperReciever/obj/Debug/net8.0/PiperReciever.AssemblyInfoInputs.cache
+/Users/einar/Desktop/Advanced Programming/NamedPipes InClass/PiperReciever/obj/Debug/net8.0/PiperReciever.AssemblyInfo.cs
+/Users/einar/Desktop/Advanced Programming/NamedPipes InClass/PiperReciever/obj/Debug/net8.0/PiperReciever.csproj.CoreCompileInputs.cache
+/Users/einar/Desktop/Advanced Programming/NamedPipes InClass/PiperReciever/bin/Debug/net8.0/PiperReciever
+/Users/einar/Desktop/Advanced Programming/NamedPipes InClass/PiperReciever/bin/Debug/net8.0/PiperReciever.deps.json
+/Users/einar/Desktop/Advanced Programming/NamedPipes InClass/PiperReciever/bin/Debug/net8.0/PiperReciever.runtimeconfig.json
+/Users/einar/Desktop/Advanced Programming/NamedPipes InClass/PiperReciever/bin/Debug/net8.0/PiperReciever.dll
+/Users/einar/Desktop/Advanced Programming/NamedPipes InClass/PiperReciever/bin/Debug/net8.0/PiperReciever.pdb
+/Users/einar/Desktop/Advanced Programming/NamedPipes InClass/PiperReciever/obj/Debug/net8.0/PiperReciever.dll
+/Users/einar/Desktop/Advanced Programming/NamedPipes InClass/PiperReciever/obj/Debug/net8.0/refint/PiperReciever.dll
+/Users/einar/Desktop/Advanced Programming/NamedPipes InClass/PiperReciever/obj/Debug/net8.0/PiperReciever.pdb
+/Users/einar/Desktop/Advanced Programming/NamedPipes InClass/PiperReciever/obj/Debug/net8.0/PiperReciever.genruntimeconfig.cache
+/Users/einar/Desktop/Advanced Programming/NamedPipes InClass/PiperReciever/obj/Debug/net8.0/ref/PiperReciever.dll
